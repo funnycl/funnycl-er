@@ -127,31 +127,31 @@ export const sampleImageList: Record<string, SampleImage> = {
   // 표정
   character_21: {
     type: "character",
-    key: "character_16",
+    key: "character_21",
     url: "/funnycl-er/assets/image-character/imo_1.png",
     name: "표정1"
   },
   character_22: {
     type: "character",
-    key: "character_17",
+    key: "character_22",
     url: "/funnycl-er/assets/image-character/imo_2.png",
     name: "표정2"
   },
   character_23: {
     type: "character",
-    key: "character_18",
+    key: "character_23",
     url: "/funnycl-er/assets/image-character/imo_3.png",
     name: "표정3"
   },
   character_24: {
     type: "character",
-    key: "character_19",
+    key: "character_24",
     url: "/funnycl-er/assets/image-character/imo_4.png",
     name: "표정4"
   },
   character_25: {
     type: "character",
-    key: "character_20",
+    key: "character_25",
     url: "/funnycl-er/assets/image-character/imo_5.png",
     name: "표정5"
   },
@@ -386,6 +386,8 @@ export const sampleImageList: Record<string, SampleImage> = {
     url: "/funnycl-er/assets/image-background/BG_SG_campus10F-S.png",
     name: "SG-캠퍼스10층S동"
   },
+
+  // 말풍선
   bubble_1: {
     type: "bubble",
     key: "bubble_1",
@@ -416,6 +418,57 @@ export const sampleImageList: Record<string, SampleImage> = {
     url: "/funnycl-er/assets/sample-images/textBox.png",
     name: "bubble05"
   },
+  bubble_6: {
+    type: "bubble",
+    key: "bubble_6",
+    url: "/funnycl-er/assets/image-talkbox/talkbox_1.png",
+    name: "말풍선1"
+  },
+  bubble_7: {
+    type: "bubble",
+    key: "bubble_7",
+    url: "/funnycl-er/assets/image-talkbox/talkbox_2.png",
+    name: "말풍선2"
+  },
+  bubble_8: {
+    type: "bubble",
+    key: "bubble_8",
+    url: "/funnycl-er/assets/image-talkbox/talkbox_3.png",
+    name: "말풍선3"
+  },
+  bubble_9: {
+    type: "bubble",
+    key: "bubble_9",
+    url: "/funnycl-er/assets/image-talkbox/talkbox_4.png",
+    name: "말풍선4"
+  },
+  bubble_10: {
+    type: "bubble",
+    key: "bubble_10",
+    url: "/funnycl-er/assets/image-talkbox/talkbox_5.png",
+    name: "말풍선5"
+  },
+  bubble_11: {
+    type: "bubble",
+    key: "bubble_11",
+    url: "/funnycl-er/assets/image-talkbox/talkbox_6.png",
+    name: "말풍선6"
+  },
+  bubble_12: {
+    type: "bubble",
+    key: "bubble_12",
+    url: "/funnycl-er/assets/image-talkbox/talkbox_7.png",
+    name: "말풍선7"
+  },
+  bubble_13: {
+    type: "bubble",
+    key: "bubble_13",
+    url: "/funnycl-er/assets/image-talkbox/talkbox_8.png",
+    name: "말풍선8"
+  },
+
+
+  // 버튼
   button_1: {
     type: "button",
     key: "button_1",
@@ -518,14 +571,60 @@ export const sampleImageList: Record<string, SampleImage> = {
     url: "/funnycl-er/assets/image-button/BtnC04.png",
     name: "버튼 17"
   },
-  // TODO
+
+
+  // 이모티콘
   emotion_1: {
     type: "emotion",
     key: "emotion_1",
-    url: "/funnycl-er/assets/image-button/BtnC04.png",
-    name: "버튼 17"
+    url: "/funnycl-er/assets/image-imotion/emoti_1.png",
+    name: "놀람"
+  },
+  emotion_2: {
+    type: "emotion",
+    key: "emotion_2",
+    url: "/funnycl-er/assets/image-imotion/emoti_2.png",
+    name: "화남"
+  },
+  emotion_3: {
+    type: "emotion",
+    key: "emotion_3",
+    url: "/funnycl-er/assets/image-imotion/emoti_3.png",
+    name: "사랑"
+  },
+  emotion_4: {
+    type: "emotion",
+    key: "emotion_4",
+    url: "/funnycl-er/assets/image-imotion/emoti_4.png",
+    name: "궁금"
+  },
+  emotion_5: {
+    type: "emotion",
+    key: "emotion_5",
+    url: "/funnycl-er/assets/image-imotion/emoti_5.png",
+    name: "느낌표1"
+  },
+  emotion_6: {
+    type: "emotion",
+    key: "emotion_6",
+    url: "/funnycl-er/assets/image-imotion/emoti_6.png",
+    name: "느낌표2"
+  },
+  emotion_7: {
+    type: "emotion",
+    key: "emotion_7",
+    url: "/funnycl-er/assets/image-imotion/emoti_7.png",
+    name: "느낌표3"
+  },
+  emotion_8: {
+    type: "emotion",
+    key: "emotion_8",
+    url: "/funnycl-er/assets/image-imotion/emoti_8.png",
+    name: "물음표"
   },
 
+
+  // 도구
   tool_1: {
     type: "tool",
     key: "tool_1",
@@ -552,10 +651,29 @@ export const sampleImageList: Record<string, SampleImage> = {
   },
 
 
+  //기타
   etc_1: {
     type: "etc",
     key: "etc_1",
-    url: "/funnycl-er/assets/image-button/BtnC04.png",
-    name: "버튼 17"
+    url: "/funnycl-er/assets/image-etc/etc_mirror.png",
+    name: "거울"
+  }
+  etc_2: {
+    type: "etc",
+    key: "etc_2",
+    url: "/funnycl-er/assets/image-etc/etc_moon.png",
+    name: "그믐달"
+  }
+  etc_3: {
+    type: "etc",
+    key: "etc_3",
+    url: "/funnycl-er/assets/image-etc/etc_suvcar.png",
+    name: "SUV"
+  }
+  etc_4: {
+    type: "etc",
+    key: "etc_4",
+    url: "/funnycl-er/assets/image-etc/etc_tv.png",
+    name: "TV"
   }
 };
