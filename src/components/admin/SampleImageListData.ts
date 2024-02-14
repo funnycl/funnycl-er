@@ -212,179 +212,117 @@ export const sampleImageList: Record<string, SampleImage> = {
     url: "/funnycl-er/assets/sample-images/(배경)여행.jpg",
     name: "여행"
   },
-  background_5: {
+  
+  // background_5: {
+  //   type: "background",
+  //   key: "background_5",
+  //   url: "/funnycl-er/assets/sample-images/BG01_Lobby.png",
+  //   name: "Lobby 1"
+  // },
+  // background_8: {
+  //   type: "background",
+  //   key: "background_8",
+  //   url: "/funnycl-er/assets/sample-images/BG02_Cafeteria.png",
+  //   name: "Cafeteria 1-1"
+  // },
+  // background_11: {
+  //   type: "background",
+  //   key: "background_11",
+  //   url: "/funnycl-er/assets/sample-images/BG03_Cafeteria.png",
+  //   name: "Cafeteria 2-1"
+  // },
+  // background_12: {
+  //   type: "background",
+  //   key: "background_12",
+  //   url: "/funnycl-er/assets/sample-images/BGDot03_Cafeteria.png",
+  //   name: "Cafeteria 2-2"
+  // },
+  // background_13: {
+  //   type: "background",
+  //   key: "background_13",
+  //   url: "/funnycl-er/assets/sample-images/BG03_hallway2.png",
+  //   name: "hallway 1"
+  // },
+  // background_15: {
+  //   type: "background",
+  //   key: "background_15",
+  //   url: "/funnycl-er/assets/sample-images/BG07_hallway2.png",
+  //   name: "hallway 3"
+  // },
+
+
+
+  // background_17: {
+  //   type: "background",
+  //   key: "background_17",
+  //   url: "/funnycl-er/assets/sample-images/BG05_library.png",
+  //   name: "library 1"
+  // },
+  // background_19: {
+  //   type: "background",
+  //   key: "background_19",
+  //   url: "/funnycl-er/assets/sample-images/BG06_SecurityGate2.png",
+  //   name: "SecurityGate 1"
+  // },
+  // background_20: {
+  //   type: "background",
+  //   key: "background_20",
+  //   url: "/funnycl-er/assets/sample-images/BG06_SecurityGate3.png",
+  //   name: "SecurityGate 2"
+  // },
+  // background_22: {
+  //   type: "background",
+  //   key: "background_22",
+  //   url: "/funnycl-er/assets/sample-images/BG07_lecturehall.png",
+  //   name: "lecturehall 1"
+  // },
+  // background_24: {
+  //   type: "background",
+  //   key: "background_24",
+  //   url: "/funnycl-er/assets/sample-images/BG08_partition.png",
+  //   name: "partition 1"
+  // },
+  // background_26: {
+  //   type: "background",
+  //   key: "background_26",
+  //   url: "/funnycl-er/assets/sample-images/BG09_MeetingRM.png",
+  //   name: "MeetingRM 1"
+  // },
+  // background_28: {
+  //   type: "background",
+  //   key: "background_28",
+  //   url: "/funnycl-er/assets/sample-images/BG10_lounge.png",
+  //   name: "lounge 1"
+  // },
+  // background_30: {
+  //   type: "background",
+  //   key: "background_30",
+  //   url: "/funnycl-er/assets/sample-images/BG12_futurelab.png",
+  //   name: "futurelab 1"
+  // },
+  // background_32: {
+  //   type: "background",
+  //   key: "background_32",
+  //   url: "/funnycl-er/assets/image-background/BG_SG_campus10F-N.png",
+  //   name: "SG10N"
+  // },
+  // background_33: {
+  //   type: "background",
+  //   key: "background_33",
+  //   url: "/funnycl-er/assets/image-background/BG_SG_campus10F-S.png",
+  //   name: "SG10S"
+  // },
+  background_34: {
     type: "background",
-    key: "background_5",
-    url: "/funnycl-er/assets/sample-images/BG01_Lobby.png",
-    name: "Lobby 1"
+    key: "background_34",
+    url: "/funnycl-er/assets/image-background/BG13_garden.png",
+    name: "SG가든"
   },
-  background_6: {
+  background_35: {
     type: "background",
-    key: "background_6",
-    url: "/funnycl-er/assets/sample-images/BG01_Lobby2.png",
-    name: "Lobby 2"
-  },
-  background_7: {
-    type: "background",
-    key: "background_7",
-    url: "/funnycl-er/assets/sample-images/BGDot01_Lobby.png",
-    name: "Lobby 3"
-  },
-  background_8: {
-    type: "background",
-    key: "background_8",
-    url: "/funnycl-er/assets/sample-images/BG02_Cafeteria.png",
-    name: "Cafeteria 1-1"
-  },
-  background_9: {
-    type: "background",
-    key: "background_9",
-    url: "/funnycl-er/assets/sample-images/BG02_Cafeteria2.png",
-    name: "Cafeteria 1-2"
-  },
-  background_10: {
-    type: "background",
-    key: "background_10",
-    url: "/funnycl-er/assets/sample-images/BGDot02_Cafeteria.png",
-    name: "Cafeteria 1-3"
-  },
-  background_11: {
-    type: "background",
-    key: "background_11",
-    url: "/funnycl-er/assets/sample-images/BG03_Cafeteria.png",
-    name: "Cafeteria 2-1"
-  },
-  background_12: {
-    type: "background",
-    key: "background_12",
-    url: "/funnycl-er/assets/sample-images/BGDot03_Cafeteria.png",
-    name: "Cafeteria 2-2"
-  },
-  background_13: {
-    type: "background",
-    key: "background_13",
-    url: "/funnycl-er/assets/sample-images/BG03_hallway2.png",
-    name: "hallway 1"
-  },
-  background_14: {
-    type: "background",
-    key: "background_14",
-    url: "/funnycl-er/assets/sample-images/BGDot03_hallway.png",
-    name: "hallway 2"
-  },
-  background_15: {
-    type: "background",
-    key: "background_15",
-    url: "/funnycl-er/assets/sample-images/BG07_hallway2.png",
-    name: "hallway 3"
-  },
-  background_16: {
-    type: "background",
-    key: "background_16",
-    url: "/funnycl-er/assets/sample-images/BGDot05_hallway.png",
-    name: "hallway 1"
-  },
-  background_17: {
-    type: "background",
-    key: "background_17",
-    url: "/funnycl-er/assets/sample-images/BG05_library.png",
-    name: "library 1"
-  },
-  background_18: {
-    type: "background",
-    key: "background_18",
-    url: "/funnycl-er/assets/sample-images/BGDot05_library.png",
-    name: "library 2"
-  },
-  background_19: {
-    type: "background",
-    key: "background_19",
-    url: "/funnycl-er/assets/sample-images/BG06_SecurityGate2.png",
-    name: "SecurityGate 1"
-  },
-  background_20: {
-    type: "background",
-    key: "background_20",
-    url: "/funnycl-er/assets/sample-images/BG06_SecurityGate3.png",
-    name: "SecurityGate 2"
-  },
-  background_21: {
-    type: "background",
-    key: "background_21",
-    url: "/funnycl-er/assets/sample-images/BGDot04_SecurityGate.png",
-    name: "SecurityGate 3"
-  },
-  background_22: {
-    type: "background",
-    key: "background_22",
-    url: "/funnycl-er/assets/sample-images/BG07_lecturehall.png",
-    name: "lecturehall 1"
-  },
-  background_23: {
-    type: "background",
-    key: "background_23",
-    url: "/funnycl-er/assets/sample-images/BGDot07_lecturehall.png",
-    name: "lecturehall 2"
-  },
-  background_24: {
-    type: "background",
-    key: "background_24",
-    url: "/funnycl-er/assets/sample-images/BG08_partition.png",
-    name: "partition 1"
-  },
-  background_25: {
-    type: "background",
-    key: "background_25",
-    url: "/funnycl-er/assets/sample-images/BGDot07_partition3.png",
-    name: "partition 2"
-  },
-  background_26: {
-    type: "background",
-    key: "background_26",
-    url: "/funnycl-er/assets/sample-images/BG09_MeetingRM.png",
-    name: "MeetingRM 1"
-  },
-  background_27: {
-    type: "background",
-    key: "background_27",
-    url: "/funnycl-er/assets/sample-images/BGDot05_MeetingRM.png",
-    name: "MeetingRM 2"
-  },
-  background_28: {
-    type: "background",
-    key: "background_28",
-    url: "/funnycl-er/assets/sample-images/BG10_lounge.png",
-    name: "lounge 1"
-  },
-  background_29: {
-    type: "background",
-    key: "background_29",
-    url: "/funnycl-er/assets/sample-images/BGDot08_lounge.png",
-    name: "lounge 2"
-  },
-  background_30: {
-    type: "background",
-    key: "background_30",
-    url: "/funnycl-er/assets/sample-images/BG12_futurelab.png",
-    name: "futurelab 1"
-  },
-  background_31: {
-    type: "background",
-    key: "background_31",
-    url: "/funnycl-er/assets/sample-images/BGDot12_futurelab.png",
-    name: "futurelab 2"
-  },
-  background_32: {
-    type: "background",
-    key: "background_32",
-    url: "/funnycl-er/assets/image-background/BG_SG_campus10F-N.png",
-    name: "SG-캠퍼스10층N동"
-  },
-  background_33: {
-    type: "background",
-    key: "background_33",
-    url: "/funnycl-er/assets/image-background/BG_SG_campus10F-S.png",
-    name: "SG-캠퍼스10층S동"
+    key: "background_35",
+    url: "/funnycl-er/assets/image-background/BG14_Smilegate.png",
+    name: "SG"
   },
 
   // 말풍선
@@ -657,23 +595,23 @@ export const sampleImageList: Record<string, SampleImage> = {
     key: "etc_1",
     url: "/funnycl-er/assets/image-etc/etc_mirror.png",
     name: "거울"
-  }
+  },
   etc_2: {
     type: "etc",
     key: "etc_2",
     url: "/funnycl-er/assets/image-etc/etc_moon.png",
     name: "그믐달"
-  }
+  },
   etc_3: {
     type: "etc",
     key: "etc_3",
     url: "/funnycl-er/assets/image-etc/etc_suvcar.png",
     name: "SUV"
-  }
+  },
   etc_4: {
     type: "etc",
     key: "etc_4",
     url: "/funnycl-er/assets/image-etc/etc_tv.png",
     name: "TV"
-  }
+  },
 };
