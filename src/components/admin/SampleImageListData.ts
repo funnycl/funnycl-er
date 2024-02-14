@@ -188,6 +188,8 @@ export const sampleImageList: Record<string, SampleImage> = {
     name: "상체5"
   },
 
+
+
   background_1: {
     type: "background",
     key: "background_1",
@@ -212,7 +214,7 @@ export const sampleImageList: Record<string, SampleImage> = {
     url: "/funnycl-er/assets/sample-images/(배경)여행.jpg",
     name: "여행"
   },
-  
+
   // background_5: {
   //   type: "background",
   //   key: "background_5",
@@ -613,5 +615,24 @@ export const sampleImageList: Record<string, SampleImage> = {
     key: "etc_4",
     url: "/funnycl-er/assets/image-etc/etc_tv.png",
     name: "TV"
+  },
+
+  etc_5: {
+    type: "etc",
+    key: "etc_5",
+    url: "/funnycl-er/assets/image-q/q_1.png",
+    name: "예제문제1"
+  },
+  etc_6: {
+    type: "etc",
+    key: "etc_6",
+    url: "/funnycl-er/assets/image-q/q_2.png",
+    name: "예제문제2"
+  },
+  etc_7: {
+    type: "etc",
+    key: "etc_7",
+    url: "/funnycl-er/assets/image-q/q_3.png",
+    name: "예제문제3"
   },
 };
