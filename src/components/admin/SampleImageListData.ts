@@ -32,65 +32,160 @@ export const sampleImageList: Record<string, SampleImage> = {
     name: "여신"
   },
 
-  character_6: {
+  // character_6: {
+  //   type: "character",
+  //   key: "character_6",
+  //   url: "/funnycl-er/assets/sample-images/SM01_flame.png",
+  //   name: "flame"
+  // },
+  // character_7: {
+  //   type: "character",
+  //   key: "character_7",
+  //   url: "/funnycl-er/assets/sample-images/SM02_wiz.png",
+  //   name: "wiz"
+  // },
+  // character_8: {
+  //   type: "character",
+  //   key: "character_8",
+  //   url: "/funnycl-er/assets/sample-images/SM03_vini.png",
+  //   name: "vini"
+  // },
+  // character_9: {
+  //   type: "character",
+  //   key: "character_9",
+  //   url: "/funnycl-er/assets/sample-images/SM04_dutti.png",
+  //   name: "dutti"
+  // },
+  // character_10: {
+  //   type: "character",
+  //   key: "character_10",
+  //   url: "/funnycl-er/assets/sample-images/SM05_mini.png",
+  //   name: "mini"
+  // },
+  // character_11: {
+  //   type: "character",
+  //   key: "character_11",
+  //   url: "/funnycl-er/assets/sample-images/SM06_inou.png",
+  //   name: "inou"
+  // },
+  // character_12: {
+  //   type: "character",
+  //   key: "character_12",
+  //   url: "/funnycl-er/assets/sample-images/SM07_intoo.png",
+  //   name: "intoo"
+  // },
+  // character_13: {
+  //   type: "character",
+  //   key: "character_13",
+  //   url: "/funnycl-er/assets/sample-images/SM08_clody.png",
+  //   name: "clody"
+  // },
+  // character_14: {
+  //   type: "character",
+  //   key: "character_14",
+  //   url: "/funnycl-er/assets/sample-images/SM09_mmuni.png",
+  //   name: "mmuni"
+  // },
+  // character_15: {
+  //   type: "character",
+  //   key: "character_15",
+  //   url: "/funnycl-er/assets/sample-images/SM10_inno.png",
+  //   name: "inno"
+  // },
+
+  character_16: {
     type: "character",
-    key: "character_6",
-    url: "/funnycl-er/assets/sample-images/SM01_flame.png",
-    name: "flame"
+    key: "character_16",
+    url: "/funnycl-er/assets/image-character/face_1.png",
+    name: "얼굴1"
   },
-  character_7: {
+  character_17: {
     type: "character",
-    key: "character_7",
-    url: "/funnycl-er/assets/sample-images/SM02_wiz.png",
-    name: "wiz"
+    key: "character_17",
+    url: "/funnycl-er/assets/image-character/face_2.png",
+    name: "얼굴2"
   },
-  character_8: {
+  character_18: {
     type: "character",
-    key: "character_8",
-    url: "/funnycl-er/assets/sample-images/SM03_vini.png",
-    name: "vini"
+    key: "character_18",
+    url: "/funnycl-er/assets/image-character/face_3.png",
+    name: "얼굴3"
   },
-  character_9: {
+  character_19: {
     type: "character",
-    key: "character_9",
-    url: "/funnycl-er/assets/sample-images/SM04_dutti.png",
-    name: "dutti"
+    key: "character_19",
+    url: "/funnycl-er/assets/image-character/face_4.png",
+    name: "얼굴4"
   },
-  character_10: {
+  character_20: {
     type: "character",
-    key: "character_10",
-    url: "/funnycl-er/assets/sample-images/SM05_mini.png",
-    name: "mini"
+    key: "character_20",
+    url: "/funnycl-er/assets/image-character/face_5.png",
+    name: "얼굴5"
   },
-  character_11: {
+
+  // 표정
+  character_21: {
     type: "character",
-    key: "character_11",
-    url: "/funnycl-er/assets/sample-images/SM06_inou.png",
-    name: "inou"
+    key: "character_16",
+    url: "/funnycl-er/assets/image-character/imo_1.png",
+    name: "표정1"
   },
-  character_12: {
+  character_22: {
     type: "character",
-    key: "character_12",
-    url: "/funnycl-er/assets/sample-images/SM07_intoo.png",
-    name: "intoo"
+    key: "character_17",
+    url: "/funnycl-er/assets/image-character/imo_2.png",
+    name: "표정2"
   },
-  character_13: {
+  character_23: {
     type: "character",
-    key: "character_13",
-    url: "/funnycl-er/assets/sample-images/SM08_clody.png",
-    name: "clody"
+    key: "character_18",
+    url: "/funnycl-er/assets/image-character/imo_3.png",
+    name: "표정3"
   },
-  character_14: {
+  character_24: {
     type: "character",
-    key: "character_14",
-    url: "/funnycl-er/assets/sample-images/SM09_mmuni.png",
-    name: "mmuni"
+    key: "character_19",
+    url: "/funnycl-er/assets/image-character/imo_4.png",
+    name: "표정4"
   },
-  character_15: {
+  character_25: {
     type: "character",
-    key: "character_15",
-    url: "/funnycl-er/assets/sample-images/SM10_inno.png",
-    name: "inno"
+    key: "character_20",
+    url: "/funnycl-er/assets/image-character/imo_5.png",
+    name: "표정5"
+  },
+
+  // 상체
+  character_26: {
+    type: "character",
+    key: "character_26",
+    url: "/funnycl-er/assets/image-character/up_1.png",
+    name: "상체1"
+  },
+  character_27: {
+    type: "character",
+    key: "character_27",
+    url: "/funnycl-er/assets/image-character/up_2.png",
+    name: "상체2"
+  },
+  character_28: {
+    type: "character",
+    key: "character_28",
+    url: "/funnycl-er/assets/image-character/up_3.png",
+    name: "상체3"
+  },
+  character_29: {
+    type: "character",
+    key: "character_29",
+    url: "/funnycl-er/assets/image-character/up_4.png",
+    name: "상체4"
+  },
+  character_30: {
+    type: "character",
+    key: "character_30",
+    url: "/funnycl-er/assets/image-character/up_5.png",
+    name: "상체5"
   },
 
   background_1: {
@@ -430,12 +525,33 @@ export const sampleImageList: Record<string, SampleImage> = {
     url: "/funnycl-er/assets/image-button/BtnC04.png",
     name: "버튼 17"
   },
+
   tool_1: {
     type: "tool",
     key: "tool_1",
-    url: "/funnycl-er/assets/image-button/BtnC04.png",
-    name: "버튼 17"
+    url: "/funnycl-er/assets/image-tools/tool_arrow.png",
+    name: "화살"
   },
+  tool_2: {
+    type: "tool",
+    key: "tool_2",
+    url: "/funnycl-er/assets/image-tools/tool_ball.png",
+    name: "축구공"
+  },
+  tool_3: {
+    type: "tool",
+    key: "tool_3",
+    url: "/funnycl-er/assets/image-tools/tool_book.png",
+    name: "책"
+  },
+  tool_4: {
+    type: "tool",
+    key: "tool_4",
+    url: "/funnycl-er/assets/image-tools/tool_mobile.png",
+    name: "휴대폰"
+  },
+
+
   etc_1: {
     type: "etc",
     key: "etc_1",
